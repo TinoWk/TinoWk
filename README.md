@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TinoWk
-- 👀 I’m interested in programming python 
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in Electronic and Telecoms
+- 🌱 I’m currently learning pyhton programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tinowowui2@gmail.com
 
